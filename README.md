@@ -1,3 +1,7 @@
+# Upgrade Equipment, trying to be done up by Nyxxonial...
+trying to be fixed by Nyxx but failing quite a bit right now because of lack of effort to deconstruct calamity.
+
+# hrr_ Version of readme
 # Upgrade Equipment (hrr\_)
 
 Upgrade Equipment (hrr_) is a watered-down, tweaked version of oempa's Upgrade Equipment Mod.
